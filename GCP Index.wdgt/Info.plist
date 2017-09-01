@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>CFBundleDisplayName</key>
+	<string>GCP Index</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.globalconscious.gcpindex</string>
+	<key>CFBundleName</key>
+	<string>GCPIndex</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CloseBoxInsetX</key>
+	<integer>2</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>2</integer>
+	<key>MainHTML</key>
+	<string>widget.html</string>
+</dict>
+</plist>
