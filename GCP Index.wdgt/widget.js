@@ -212,8 +212,9 @@ function setPercent(p)
  *
  *
  var	host = "gcp.djbradanderson.com";
+ 	This is the old URL that is not working anymore. I changed it to the one below.
  */
- var	host = "global-mind.org/gcpdot/";
+ var	host = "global-mind.org/gcpdot/"; //New host
  function getStats(includeCurrentMinute)
  {
  	var url = "http://" + host + "/gcpindex.php?" + (includeCurrentMinute ? "current=1&" : "") + "small=1";
